@@ -1,2 +1,2 @@
 # ML---Scikit-Learn---python---category
-Trabalhando com algoritmo de classificação
+Trabalhando com algoritmo de classificação binária
